@@ -1,3 +1,5 @@
+# Создать метакласс для паттерна Синглтон (см. конец вебинара)
+
 class MyMetaClass(type):
     _instance = None
 
